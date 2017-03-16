@@ -147,6 +147,18 @@
 		"oAP": "\/index.html",
 		"oF": 0
 		},
+	"\/post-1.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/post-1.html",
+		"oF": 0
+		},
+	"\/post-2.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/post-2.html",
+		"oF": 0
+		},
 	"\/posts.html": {
 		"ft": 8192,
 		"oA": 2,
