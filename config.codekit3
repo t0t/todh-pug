@@ -15,6 +15,12 @@
 		"oAP": "\/.gitignore",
 		"oF": 0
 		},
+	"\/about.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/about.html",
+		"oF": 0
+		},
 	"\/assets\/icons.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -109,21 +115,33 @@
 		},
 	"\/blog\/and-another-post.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/blog\/and-another-post.html",
+		"oF": 1
+		},
+	"\/blog\/post-1.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/blog\/post-1.html",
+		"oF": 0
+		},
+	"\/blog\/post-2.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/blog\/post-2.html",
 		"oF": 0
 		},
 	"\/blog\/this-is-a-post-copia.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/blog\/this-is-a-post-copia.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/blog\/this-is-a-post.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/blog\/this-is-a-post.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/contacto.html": {
 		"ft": 8192,
@@ -147,18 +165,6 @@
 		"oAP": "\/css\/Main.css.map",
 		"oF": 0
 		},
-	"\/details.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/details.html",
-		"oF": 0
-		},
-	"\/elgrupo.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/elgrupo.html",
-		"oF": 0
-		},
 	"\/favicon.ico": {
 		"ft": 8192,
 		"oA": 2,
@@ -171,22 +177,16 @@
 		"oAP": "\/index.html",
 		"oF": 0
 		},
-	"\/modelos.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/modelos.html",
-		"oF": 0
-		},
-	"\/muebles.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/muebles.html",
-		"oF": 0
-		},
 	"\/posts.html": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/posts.html",
+		"oF": 0
+		},
+	"\/README.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/README.html",
 		"oF": 0
 		},
 	"\/README.md": {
@@ -230,6 +230,14 @@
 		"oAP": "\/src\/_db\/_products.html",
 		"oF": 0,
 		"oS": 0
+		},
+	"\/src\/about.pug": {
+		"cOD": 1,
+		"ft": 512,
+		"oA": 0,
+		"oAP": "\/about.html",
+		"oF": 3,
+		"oS": 1
 		},
 	"\/src\/assets\/icons.svg": {
 		"ft": 2097152,
@@ -393,22 +401,6 @@
 		"oF": 2,
 		"oS": 0
 		},
-	"\/src\/details.pug": {
-		"cOD": 1,
-		"ft": 512,
-		"oA": 0,
-		"oAP": "\/details.html",
-		"oF": 2,
-		"oS": 0
-		},
-	"\/src\/elgrupo.pug": {
-		"cOD": 1,
-		"ft": 512,
-		"oA": 0,
-		"oAP": "\/elgrupo.html",
-		"oF": 2,
-		"oS": 0
-		},
 	"\/src\/favicon.ico": {
 		"ft": 8192,
 		"oA": 0,
@@ -458,22 +450,6 @@
 		"sC": 1,
 		"tS": 0
 		},
-	"\/src\/modelos.pug": {
-		"cOD": 1,
-		"ft": 512,
-		"oA": 0,
-		"oAP": "\/modelos.html",
-		"oF": 2,
-		"oS": 0
-		},
-	"\/src\/muebles.pug": {
-		"cOD": 1,
-		"ft": 512,
-		"oA": 0,
-		"oAP": "\/muebles.html",
-		"oF": 2,
-		"oS": 0
-		},
 	"\/src\/posts.pug": {
 		"cOD": 1,
 		"ft": 512,
@@ -481,6 +457,14 @@
 		"oAP": "\/posts.html",
 		"oF": 2,
 		"oS": 0
+		},
+	"\/src\/products.pug": {
+		"cOD": 1,
+		"ft": 512,
+		"oA": 0,
+		"oAP": "\/products.html",
+		"oF": 2,
+		"oS": 1
 		},
 	"\/src\/scss\/.sass-cache\/4cc7ad0d8dfd79ed075eb8c245c16f7f2842194b\/_ButtonGroup.scssc": {
 		"ft": 8192,
