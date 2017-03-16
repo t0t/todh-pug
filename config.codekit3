@@ -113,36 +113,6 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/blog\/and-another-post.html": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/blog\/and-another-post.html",
-		"oF": 1
-		},
-	"\/blog\/post-1.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/blog\/post-1.html",
-		"oF": 0
-		},
-	"\/blog\/post-2.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/blog\/post-2.html",
-		"oF": 0
-		},
-	"\/blog\/this-is-a-post-copia.html": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/blog\/this-is-a-post-copia.html",
-		"oF": 1
-		},
-	"\/blog\/this-is-a-post.html": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/blog\/this-is-a-post.html",
-		"oF": 1
-		},
 	"\/contacto.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -384,18 +354,18 @@
 		"oF": 0
 		},
 	"\/src\/blog\/_post-1.pug": {
-		"cOD": 1,
+		"cOD": 0,
 		"ft": 512,
 		"oA": 0,
-		"oAP": "\/blog\/post-1.html",
+		"oAP": "\/post-1.html",
 		"oF": 3,
 		"oS": 1
 		},
 	"\/src\/blog\/_post-2.pug": {
-		"cOD": 1,
+		"cOD": 0,
 		"ft": 512,
 		"oA": 0,
-		"oAP": "\/blog\/post-2.html",
+		"oAP": "\/post-2.html",
 		"oF": 3,
 		"oS": 1
 		},
