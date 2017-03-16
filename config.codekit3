@@ -159,6 +159,30 @@
 		"oAP": "\/post-2.html",
 		"oF": 0
 		},
+	"\/post-3.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/post-3.html",
+		"oF": 0
+		},
+	"\/post-4.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/post-4.html",
+		"oF": 0
+		},
+	"\/post-5.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/post-5.html",
+		"oF": 0
+		},
+	"\/post-6.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/post-6.html",
+		"oF": 0
+		},
 	"\/posts.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -365,7 +389,7 @@
 		"oAP": "\/src\/assets\/pdf\/mfbarcelona_presentacion.pdf",
 		"oF": 0
 		},
-	"\/src\/blog\/_post-1.pug": {
+	"\/src\/blog\/post-1.pug": {
 		"cOD": 0,
 		"ft": 512,
 		"oA": 0,
@@ -373,11 +397,43 @@
 		"oF": 3,
 		"oS": 1
 		},
-	"\/src\/blog\/_post-2.pug": {
+	"\/src\/blog\/post-2.pug": {
 		"cOD": 0,
 		"ft": 512,
 		"oA": 0,
 		"oAP": "\/post-2.html",
+		"oF": 3,
+		"oS": 1
+		},
+	"\/src\/blog\/post-3.pug": {
+		"cOD": 0,
+		"ft": 512,
+		"oA": 0,
+		"oAP": "\/post-3.html",
+		"oF": 3,
+		"oS": 1
+		},
+	"\/src\/blog\/post-4.pug": {
+		"cOD": 0,
+		"ft": 512,
+		"oA": 0,
+		"oAP": "\/post-4.html",
+		"oF": 3,
+		"oS": 1
+		},
+	"\/src\/blog\/post-5.pug": {
+		"cOD": 0,
+		"ft": 512,
+		"oA": 0,
+		"oAP": "\/post-5.html",
+		"oF": 3,
+		"oS": 1
+		},
+	"\/src\/blog\/post-6.pug": {
+		"cOD": 0,
+		"ft": 512,
+		"oA": 0,
+		"oAP": "\/post-6.html",
 		"oF": 3,
 		"oS": 1
 		},
