@@ -1,0 +1,20 @@
+mixin navmenu(menu_items)
+    nav.nav-main
+        ul.nav-main__menu
+            each item in menu_items
+                if item.title == current
+                    li( class=[ 'btn', 'btn--nav', 'active' ])
+                        a( href = item.link )
+                            =item.title
+                else
+                    li( class=[ 'btn', 'btn--nav' ])
+                        a( href=item.link )
+                            =item.title
+        input(type="button", id="hamenu", class="btn btn--hamenu", value="Menu")
+
++navmenu([
+    { 'title': 'Home',  'link': 'index.html'},
+    { 'title': 'El Grupo',  'link': 'elgrupo.html'},
+    { 'title': 'Muebles',  'link': 'muebles.html'},
+    { 'title': 'Contacto',  'link': 'contacto.html' }
+])

@@ -1,0 +1,21 @@
+block config
+    include _config
+doctype
+html
+    head
+        title My Site
+        link( rel="stylesheet", href="./css/Main.css", type="text/css")
+
+    body
+        block header
+            include ./components/_brand
+
+        block nav
+            include ./partials/_nav-main
+
+        block main
+
+        block footer
+
+        block scripts
+            script(src='./js/build.js')

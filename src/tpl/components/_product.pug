@@ -1,0 +1,12 @@
+include ../../_db/_products.pug
+
+mixin product-card(product)
+  h2.productTitle= product.name
+  div.detail
+    p= product.ref
+    p= product.color
+    p= product.collection
+    p= product.category
+
+for product in products
+  +product-card(product)

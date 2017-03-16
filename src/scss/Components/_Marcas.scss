@@ -1,0 +1,33 @@
+/*
+ * Marcas
+ */
+
+.Marcas {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+  background-color: #F6F5F5;
+  height: 460px;
+
+  @include max-screen($small) {
+    height: 100vh;
+  }
+
+  &__title {
+    text-align: center;
+    flex: 1 100%;
+  }
+  &Item {
+    margin: 20px;
+    @include max-screen($small) {
+      margin: 0;
+      flex: 1 275px;
+      text-align: center;
+    }
+  }
+  li {
+    list-style: none;
+  }
+}

@@ -1,0 +1,77 @@
+// responsive version of logotype (remove part)
+@include max-screen(800px) {
+  .textologo  {
+    display: none;
+  }
+  .enanito {
+    transform: translate(30px, -13px) scale(1.6);
+  }
+}
+
+// use.logo {} // For svg symbol instances
+
+.icon {
+
+  &Logo {
+    height: 46px;
+    @include max-screen($big) {
+      height: 100px;
+    }
+  }
+
+  &Lupa {
+    fill: none;
+    stroke: $gray_lighter;
+    stroke-width: 1px;
+    width: 27px;
+    height: 27px;
+    margin-right: 10px;
+  }
+
+  &Logo--line {
+    height: 60px;
+    max-width: 230px;
+  }
+
+  &Arrow {
+    width: 60px;
+    height: 50px;
+    fill: none;
+    stroke-width: 6px;
+    &--next {
+      stroke: $white;
+    }
+    &--prev {
+      stroke: gray;
+    }
+  }
+  &Palet {
+    stroke: $gray_light;
+  }
+  &Pefc {
+    fill: none;
+    stroke: $gray_light;
+    stroke-width: .5px;
+  }
+  &Spain {
+    fill: none;
+    stroke: $gray_light;
+    stroke-width: .5px;
+  }
+  &Arkit {
+    width: 200px;
+  }
+  &Habit {
+    width: 100px;
+  }
+  &Brico {
+    width: 170px;
+  }
+}
+
+.iconPefc,
+.iconPalet,
+.iconSpain {
+  width: 100px;
+  height: 100px;
+}

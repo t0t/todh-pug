@@ -1,0 +1,44 @@
+/*
+ * Site Navigation
+ */
+
+.siteNavigation {
+  height: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+
+  @include max-screen($small) {
+    order: 4;
+    background-color: $gray_lighter;
+    width: 100%;
+  }
+
+  ul {
+    list-style: none;
+    margin-bottom: 0;
+    padding-left: 0;
+  }
+  li {
+    display: inline-flex;
+  }
+
+  a {
+    color: $white;
+    padding: $spacing_base / 4;
+    height: 100%;
+    // text-transform: uppercase;
+    border-bottom: 5px solid transparent;
+
+    &:hover,
+    &:active,
+    &:focus,
+    &.active {
+      border-bottom-color: $gray_dark;
+    }
+
+    @include max-screen($small) {
+      color: $black;
+    }
+  }
+}
