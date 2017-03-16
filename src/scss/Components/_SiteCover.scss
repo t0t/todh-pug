@@ -1,57 +1,57 @@
 /*
  * Cover
  */
-
 .Cover {
-  margin-top: $spacing_base * 2;
-  background-color: $gray;
-  width: 100%;
-  overflow: hidden;
-  min-height: 90vh;
-  background-image: url('../assets/images/cover.jpg');
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-attachment: fixed;
-  color: $white;
-  display: flex;
-  flex-direction: column;
-  align-items: flex-end;
-  justify-content: flex-start;
-  position: relative;
-
-  @include max-screen($small) {
-    padding-top: $spacing_base * 7;
-  }
-
-  &Features {
-    padding: $spacing_base;
-    color: $gray_light;
-    background-color: rgba($white,1);
-    letter-spacing: -1px;
-    text-align: center;
-    margin-top: $spacing_base * 2;
-
-    @include max-screen($small) {
-      background-color: $white;
+    background-color: $gray_light;
+    width: 100%;
+    background-image: url('../assets/images/cover.jpg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    color: $white;
+    display: flex;
+    position: relative;
+    padding-top: $spacing_base * 3;
+    margin-top: $spacing_base * 3;
+    @include min-screen($small+10) {
+        padding-top: 0;
+        margin-top: $spacing_base * 2;
+        align-items: flex-end;
+        justify-content: flex-start;
+        flex-direction: column;
+        background-size: cover;
+        background-position: -100px 0;
+    }
+    @include min-screen($big) {
+        background-size: cover;
+        background-position: 0;
     }
 
-    &--item {
-      display: flex;
-      flex-wrap: wrap;
-      // flex-direction: column;
-      justify-content: center;
-      align-items: center;
+    &Features {
+        padding: $spacing_base;
+        color: $gray_light;
+        background-color: rgba($white,1);
+        letter-spacing: -1px;
+        text-align: center;
+        margin-top: $spacing_base * 2;
+        @include max-screen($small) {
+            background-color: $white;
+        }
 
-      &:nth-child(2) {
-        margin-top: $spacing_base / 2;
-        margin-bottom: $spacing_base / 2;
-      }
+        &--item {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            align-items: center;
 
-      h3 {
-        margin-left: $spacing_base / 2;
-        max-width: 240px
-      }
+            &:nth-child(2) {
+                margin-top: $spacing_base / 2;
+                margin-bottom: $spacing_base / 2;
+            }
+
+            h3 {
+                margin-left: $spacing_base / 2;
+                max-width: 240px;
+            }
+        }
     }
-  }
-
 }

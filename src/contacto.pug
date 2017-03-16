@@ -1,10 +1,9 @@
-extends ./tpl/layout
+extends ./tpl/_layout
 
-prepend nav
+prepend header
     - current = "Contacto"
 
-block header
-    p header de Contacto
-
 block main
-    p content el Contacto
+    include ./tpl/components/_map
+    include ./tpl/components/_departments
+    include ./tpl/components/_downloads

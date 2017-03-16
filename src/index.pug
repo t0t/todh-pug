@@ -1,14 +1,9 @@
-extends ./tpl/layout
+extends ./tpl/_layout
 
-prepend nav
+prepend header
     - current = "Home"
 
-block header
-    p header
-
 block main
-    p "population/site-header.kit"
-    p "population/site-cover.kit"
-    p "population/video.kit"
-    p "organisms/posts.kit"
-    p "population/site-footer.kit"
+    include ./tpl/components/_cover
+    include ./tpl/components/_video
+    include ./tpl/components/_posts

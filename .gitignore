@@ -1,2 +1,4 @@
 .DS_Store
 */.DS_Store
+src/scss/.sass-cache
+config.codekit3

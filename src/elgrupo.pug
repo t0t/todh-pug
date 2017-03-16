@@ -1,10 +1,8 @@
-extends ./tpl/layout
+extends ./tpl/_layout
 
-prepend nav
+prepend header
     - current = "El Grupo"
 
-block header
-    p header de el grupo
-
 block main
-    p content el grupo
+    include ./tpl/components/_cover
+    include ./tpl/components/_posts
