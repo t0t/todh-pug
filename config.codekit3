@@ -183,6 +183,12 @@
 		"oAP": "\/posts.html",
 		"oF": 0
 		},
+	"\/products.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/products.html",
+		"oF": 0
+		},
 	"\/README.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -408,7 +414,7 @@
 		"oF": 3
 		},
 	"\/src\/index.pug": {
-		"cOD": 1,
+		"cOD": 0,
 		"ft": 512,
 		"oA": 0,
 		"oAP": "\/index.html",

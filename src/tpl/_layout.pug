@@ -3,7 +3,7 @@ block config
 doctype
 html(lang=es)
     head
-        title My Site
+        title=PageTitle
         link( rel="stylesheet", href="/css/Main.css", type="text/css")
         block metatags
             meta(charset='utf-8')
@@ -20,7 +20,8 @@ html(lang=es)
                 include ./components/_search
                 include ./components/_languages
 
-        block main
+        main.main
+            block main
 
         block footer
             include ./partials/_footer

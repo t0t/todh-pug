@@ -1,22 +1,20 @@
-//
-    Site Footer
 footer.siteFooter
     block footer
         aside.Marcas
             h3.Marcas__title #{PageTitle}
             li.MarcasItem
                 a
-                    svg.icon iconArkit
+                    svg.icon.iconArkit
                         use xlink:href(#icon-arkit)
             li.MarcasItem
                 svg(class="icon iconHabit")
                     use(xlink:href="assets/icons.svg#icon-magnifying-glass")
             li.MarcasItem
-                svg.icon iconBrico
+                svg.icon.iconBrico
                     use xlink:href(#icon-brico)
 
-            p.site__footer__credits #{PageTitle}
-                p &copy; #{new Date().getFullYear()}
-                small Site by small
-                svg.icon-logo_sf
-                    use(xlink:href="assets/img/icons.svg#icon-logo")
+        p.site__footer__credits #{PageTitle}
+            p &copy; #{new Date().getFullYear()}
+            small Site by small
+            svg.icon-logo_sf
+                use(xlink:href="assets/img/icons.svg#icon-logo")
