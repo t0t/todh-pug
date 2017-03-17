@@ -15,6 +15,12 @@
 		"oAP": "\/.gitignore",
 		"oF": 0
 		},
+	"\/about.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/about.html",
+		"oF": 0
+		},
 	"\/assets\/icons.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -107,12 +113,105 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/blog\/and-another-post.html": {
+	"\/bower.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/bower-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/bower_components\/aos\/.bower.json": {
+		"ft": 524288,
+		"oA": 2,
+		"oAP": "\/bower_components\/aos\/.bower.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/bower_components\/aos\/bower.json": {
+		"ft": 524288,
+		"oA": 2,
+		"oAP": "\/bower_components\/aos\/bower.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/bower_components\/aos\/CHANGELOG.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 2,
+		"oAP": "\/bower_components\/aos\/CHANGELOG.md",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/bower_components\/aos\/CONTRIBUTING.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 2,
+		"oAP": "\/bower_components\/aos\/CONTRIBUTING.md",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/bower_components\/aos\/demo\/async.html": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/blog\/and-another-post.html",
+		"oAP": "\/bower_components\/aos\/demo\/async.html",
 		"oF": 0
 		},
+	"\/bower_components\/aos\/demo\/css\/styles.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/aos\/demo\/css\/styles.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/aos\/demo\/simple.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/bower_components\/aos\/demo\/simple.html",
+		"oF": 0
+		},
+	"\/bower_components\/aos\/dist\/aos.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/aos\/dist\/aos.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/aos\/dist\/aos.css.map": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/bower_components\/aos\/dist\/aos.css.map",
+		"oF": 0
+		},
+<<<<<<< HEAD
 	"\/blog\/post-1.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -126,16 +225,188 @@
 		"oF": 0
 		},
 	"\/blog\/this-is-a-post-copia.html": {
+=======
+	"\/bower_components\/aos\/dist\/aos.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/aos\/dist\/aos.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/bower_components\/aos\/dist\/aos.js.map": {
+>>>>>>> gh-pages
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/blog\/this-is-a-post-copia.html",
+		"oAP": "\/bower_components\/aos\/dist\/aos.js.map",
 		"oF": 0
 		},
-	"\/blog\/this-is-a-post.html": {
+	"\/bower_components\/aos\/karma.conf.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/aos\/karma.conf.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/bower_components\/aos\/LICENSE": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/blog\/this-is-a-post.html",
+		"oAP": "\/bower_components\/aos\/LICENSE",
 		"oF": 0
+		},
+	"\/bower_components\/aos\/README.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 2,
+		"oAP": "\/bower_components\/aos\/README.md",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/bower_components\/aos\/src\/js\/aos.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/aos\/src\/js\/aos.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/bower_components\/aos\/src\/js\/helpers\/calculateOffset.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/bower_components\/aos\/src\/js\/helpers\/calculateOffset.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/bower_components\/aos\/src\/js\/helpers\/detector.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/bower_components\/aos\/src\/js\/helpers\/detector.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/bower_components\/aos\/src\/js\/helpers\/elements.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/bower_components\/aos\/src\/js\/helpers\/elements.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/bower_components\/aos\/src\/js\/helpers\/handleScroll.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/bower_components\/aos\/src\/js\/helpers\/handleScroll.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/bower_components\/aos\/src\/js\/helpers\/prepare.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/bower_components\/aos\/src\/js\/helpers\/prepare.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/bower_components\/aos\/src\/js\/libs\/observer.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/bower_components\/aos\/src\/js\/libs\/observer.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/bower_components\/aos\/src\/js\/libs\/offset.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/bower_components\/aos\/src\/js\/libs\/offset.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/bower_components\/aos\/src\/sass\/_animations.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/bower_components\/aos\/src\/sass\/_animations.scss",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/bower_components\/aos\/src\/sass\/_core.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/bower_components\/aos\/src\/sass\/_core.scss",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/bower_components\/aos\/src\/sass\/_easing.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/bower_components\/aos\/src\/sass\/_easing.scss",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/bower_components\/aos\/src\/sass\/aos.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/aos\/src\/sass\/aos.scss",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/bower_components\/aos\/webpack.config.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/aos\/webpack.config.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
 		},
 	"\/contacto.html": {
 		"ft": 8192,
@@ -159,18 +430,6 @@
 		"oAP": "\/css\/Main.css.map",
 		"oF": 0
 		},
-	"\/details.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/details.html",
-		"oF": 0
-		},
-	"\/elgrupo.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/elgrupo.html",
-		"oF": 0
-		},
 	"\/favicon.ico": {
 		"ft": 8192,
 		"oA": 2,
@@ -183,16 +442,49 @@
 		"oAP": "\/index.html",
 		"oF": 0
 		},
-	"\/modelos.html": {
+	"\/js\/build.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/build-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/post-1.html": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/modelos.html",
+		"oAP": "\/post-1.html",
 		"oF": 0
 		},
-	"\/muebles.html": {
+	"\/post-2.html": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/muebles.html",
+		"oAP": "\/post-2.html",
+		"oF": 0
+		},
+	"\/post-3.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/post-3.html",
+		"oF": 0
+		},
+	"\/post-4.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/post-4.html",
+		"oF": 0
+		},
+	"\/post-5.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/post-5.html",
+		"oF": 0
+		},
+	"\/post-6.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/post-6.html",
 		"oF": 0
 		},
 	"\/posts.html": {
@@ -201,6 +493,15 @@
 		"oAP": "\/posts.html",
 		"oF": 0
 		},
+<<<<<<< HEAD
+=======
+	"\/products.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/products.html",
+		"oF": 0
+		},
+>>>>>>> gh-pages
 	"\/README.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -248,6 +549,14 @@
 		"oAP": "\/src\/_db\/_products.html",
 		"oF": 0,
 		"oS": 0
+		},
+	"\/src\/about.pug": {
+		"cOD": 1,
+		"ft": 512,
+		"oA": 0,
+		"oAP": "\/about.html",
+		"oF": 3,
+		"oS": 1
 		},
 	"\/src\/assets\/icons.svg": {
 		"ft": 2097152,
@@ -387,44 +696,85 @@
 		"oAP": "\/src\/assets\/pdf\/mfbarcelona_presentacion.pdf",
 		"oF": 0
 		},
-	"\/src\/blog\/_post-1.pug": {
-		"cOD": 1,
+	"\/src\/blog\/post-1.pug": {
+		"cOD": 0,
 		"ft": 512,
+<<<<<<< HEAD
 		"oA": 1,
 		"oAP": "\/src\/blog\/_post-1.html",
 		"oF": 0,
 		"oS": 0
+=======
+		"oA": 0,
+		"oAP": "\/post-1.html",
+		"oF": 3,
+		"oS": 1
+>>>>>>> gh-pages
 		},
-	"\/src\/blog\/_post-2.pug": {
-		"cOD": 1,
+	"\/src\/blog\/post-2.pug": {
+		"cOD": 0,
 		"ft": 512,
+<<<<<<< HEAD
 		"oA": 1,
 		"oAP": "\/src\/blog\/_post-2.html",
 		"oF": 0,
 		"oS": 0
+=======
+		"oA": 0,
+		"oAP": "\/post-2.html",
+		"oF": 3,
+		"oS": 1
+>>>>>>> gh-pages
+		},
+	"\/src\/blog\/post-3.pug": {
+		"cOD": 0,
+		"ft": 512,
+		"oA": 0,
+		"oAP": "\/post-3.html",
+		"oF": 3,
+		"oS": 1
+		},
+	"\/src\/blog\/post-4.pug": {
+		"cOD": 0,
+		"ft": 512,
+		"oA": 0,
+<<<<<<< HEAD
+		"oAP": "\/src\/details.html",
+		"oF": 0,
+		"oS": 0
+=======
+		"oAP": "\/post-4.html",
+		"oF": 3,
+		"oS": 1
+		},
+	"\/src\/blog\/post-5.pug": {
+		"cOD": 0,
+		"ft": 512,
+		"oA": 0,
+		"oAP": "\/post-5.html",
+		"oF": 3,
+		"oS": 1
+>>>>>>> gh-pages
+		},
+	"\/src\/blog\/post-6.pug": {
+		"cOD": 0,
+		"ft": 512,
+		"oA": 0,
+		"oAP": "\/post-6.html",
+		"oF": 3,
+		"oS": 1
 		},
 	"\/src\/contacto.pug": {
 		"cOD": 1,
 		"ft": 512,
 		"oA": 0,
-		"oAP": "\/contacto.html",
-		"oF": 2,
-		"oS": 0
-		},
-	"\/src\/details.pug": {
-		"cOD": 1,
-		"ft": 512,
-		"oA": 0,
-		"oAP": "\/src\/details.html",
-		"oF": 0,
-		"oS": 0
-		},
-	"\/src\/elgrupo.pug": {
-		"cOD": 1,
-		"ft": 512,
-		"oA": 0,
+<<<<<<< HEAD
 		"oAP": "\/src\/elgrupo.html",
 		"oF": 0,
+=======
+		"oAP": "\/contacto.html",
+		"oF": 2,
+>>>>>>> gh-pages
 		"oS": 0
 		},
 	"\/src\/favicon.ico": {
@@ -448,7 +798,7 @@
 		"oAP": "\/src\/js\/app-min.js",
 		"oF": 0,
 		"sC": 1,
-		"tS": 0
+		"tS": 1
 		},
 	"\/src\/js\/component.js": {
 		"ft": 64,
@@ -459,14 +809,6 @@
 		"sC": 1,
 		"tS": 0
 		},
-	"\/src\/js\/data2.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "\/src\/js\/data2-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
 	"\/src\/js\/templates.js": {
 		"ft": 64,
 		"mi": 1,
@@ -476,6 +818,7 @@
 		"sC": 1,
 		"tS": 0
 		},
+<<<<<<< HEAD
 	"\/src\/modelos.pug": {
 		"cOD": 1,
 		"ft": 512,
@@ -490,15 +833,29 @@
 		"oA": 0,
 		"oAP": "\/src\/muebles.html",
 		"oF": 0,
-		"oS": 0
-		},
+=======
 	"\/src\/posts.pug": {
 		"cOD": 1,
 		"ft": 512,
 		"oA": 0,
+		"oAP": "\/posts.html",
+		"oF": 2,
+>>>>>>> gh-pages
+		"oS": 0
+		},
+	"\/src\/products.pug": {
+		"cOD": 1,
+		"ft": 512,
+		"oA": 0,
+<<<<<<< HEAD
 		"oAP": "\/src\/posts.html",
 		"oF": 0,
 		"oS": 0
+=======
+		"oAP": "\/products.html",
+		"oF": 2,
+		"oS": 1
+>>>>>>> gh-pages
 		},
 	"\/src\/scss\/.sass-cache\/4cc7ad0d8dfd79ed075eb8c245c16f7f2842194b\/_ButtonGroup.scssc": {
 		"ft": 8192,

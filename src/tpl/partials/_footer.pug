@@ -1,22 +1,21 @@
-//
-    Site Footer
 footer.siteFooter
     block footer
         aside.Marcas
             h3.Marcas__title #{PageTitle}
             li.MarcasItem
-                a
-                    svg.icon iconArkit
-                        use xlink:href(#icon-arkit)
+                a(href="#" class="")
+                    svg(class="icon  iconArkit")
+                        use(xlink:href="assets/icons.svg#icon-arkit")
             li.MarcasItem
-                svg(class="icon iconHabit")
-                    use(xlink:href="assets/icons.svg#icon-magnifying-glass")
+                a(href="#" class="")
+                    svg(class="icon  iconHabit")
+                        use(xlink:href="assets/icons.svg#icon-habit")
             li.MarcasItem
-                svg.icon iconBrico
-                    use xlink:href(#icon-brico)
+                a(href="#" class="")
+                    svg(class="icon  iconBrico")
+                        use(xlink:href="assets/icons.svg#icon-brico")
 
-            p.site__footer__credits #{PageTitle}
-                p &copy; #{new Date().getFullYear()}
-                small Site by small
-                svg.icon-logo_sf
-                    use(xlink:href="assets/img/icons.svg#icon-logo")
+        main.siteFooter--credits
+            p &copy; #{new Date().getFullYear()}
+            small #{PageTitle}
+            button.btn.btn--invert email
