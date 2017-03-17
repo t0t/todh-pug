@@ -4,6 +4,7 @@ doctype html
 html(lang=es)
     head
         title=PageTitle
+        link( rel="stylesheet", href="bower_components/aos/dist/aos.css", type="text/css")
         link( rel="stylesheet", href="css/Main.css", type="text/css")
         block metatags
             meta(charset='utf-8')
@@ -27,4 +28,5 @@ html(lang=es)
             include ./partials/_footer
 
         block scripts
-            script(src='./js/build.js')
+            script(src='https://cdn.rawgit.com/michalsnik/aos/2.0.4/dist/aos.js')
+            script(src='js/build.js')
