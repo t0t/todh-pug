@@ -211,21 +211,6 @@
 		"oAP": "\/bower_components\/aos\/dist\/aos.css.map",
 		"oF": 0
 		},
-<<<<<<< HEAD
-	"\/blog\/post-1.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/blog\/post-1.html",
-		"oF": 0
-		},
-	"\/blog\/post-2.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/blog\/post-2.html",
-		"oF": 0
-		},
-	"\/blog\/this-is-a-post-copia.html": {
-=======
 	"\/bower_components\/aos\/dist\/aos.js": {
 		"ft": 64,
 		"mi": 1,
@@ -236,7 +221,6 @@
 		"tS": 0
 		},
 	"\/bower_components\/aos\/dist\/aos.js.map": {
->>>>>>> gh-pages
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/aos\/dist\/aos.js.map",
@@ -493,15 +477,12 @@
 		"oAP": "\/posts.html",
 		"oF": 0
 		},
-<<<<<<< HEAD
-=======
 	"\/products.html": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/products.html",
 		"oF": 0
 		},
->>>>>>> gh-pages
 	"\/README.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -555,36 +536,36 @@
 		"ft": 512,
 		"oA": 0,
 		"oAP": "\/about.html",
-		"oF": 3,
-		"oS": 1
+		"oF": 2,
+		"oS": 0
 		},
 	"\/src\/assets\/icons.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/src\/assets\/icons.svg",
-		"oF": 0,
-		"opt": 0,
+		"oAP": "\/assets\/icons.svg",
+		"oF": 3,
+		"opt": 1,
 		"plM": 3758088159,
 		"prP": 0
 		},
 	"\/src\/assets\/images\/cover.jpg": {
 		"ft": 16384,
-		"iS": 2537415,
+		"iS": 1552356,
 		"oA": 0,
 		"oAP": "\/assets\/images\/cover.jpg",
-		"oF": 3,
+		"oF": 2,
 		"opt": 1,
-		"q": 100
+		"q": 97
 		},
 	"\/src\/assets\/images\/default_img.jpg": {
 		"ft": 16384,
-		"iS": 278664,
+		"iS": 7072453,
 		"oA": 0,
 		"oAP": "\/assets\/images\/default_img.jpg",
-		"oF": 3,
+		"oF": 2,
 		"opt": 1,
-		"q": 100
+		"q": 92
 		},
 	"\/src\/assets\/images\/localizacion.jpg": {
 		"ft": 16384,
@@ -664,12 +645,12 @@
 		},
 	"\/src\/assets\/images\/post_main.jpg": {
 		"ft": 16384,
-		"iS": 148310,
+		"iS": 98642,
 		"oA": 0,
 		"oAP": "\/assets\/images\/post_main.jpg",
-		"oF": 3,
+		"oF": 2,
 		"opt": 1,
-		"q": 100
+		"q": 92
 		},
 	"\/src\/assets\/images\/product.jpg": {
 		"ft": 16384,
@@ -697,84 +678,51 @@
 		"oF": 0
 		},
 	"\/src\/blog\/post-1.pug": {
-		"cOD": 0,
-		"ft": 512,
-<<<<<<< HEAD
-		"oA": 1,
-		"oAP": "\/src\/blog\/_post-1.html",
-		"oF": 0,
-		"oS": 0
-=======
-		"oA": 0,
-		"oAP": "\/post-1.html",
-		"oF": 3,
-		"oS": 1
->>>>>>> gh-pages
-		},
-	"\/src\/blog\/post-2.pug": {
-		"cOD": 0,
-		"ft": 512,
-<<<<<<< HEAD
-		"oA": 1,
-		"oAP": "\/src\/blog\/_post-2.html",
-		"oF": 0,
-		"oS": 0
-=======
-		"oA": 0,
-		"oAP": "\/post-2.html",
-		"oF": 3,
-		"oS": 1
->>>>>>> gh-pages
-		},
-	"\/src\/blog\/post-3.pug": {
-		"cOD": 0,
-		"ft": 512,
-		"oA": 0,
-		"oAP": "\/post-3.html",
-		"oF": 3,
-		"oS": 1
-		},
-	"\/src\/blog\/post-4.pug": {
-		"cOD": 0,
-		"ft": 512,
-		"oA": 0,
-<<<<<<< HEAD
-		"oAP": "\/src\/details.html",
-		"oF": 0,
-		"oS": 0
-=======
-		"oAP": "\/post-4.html",
-		"oF": 3,
-		"oS": 1
-		},
-	"\/src\/blog\/post-5.pug": {
-		"cOD": 0,
-		"ft": 512,
-		"oA": 0,
-		"oAP": "\/post-5.html",
-		"oF": 3,
-		"oS": 1
->>>>>>> gh-pages
-		},
-	"\/src\/blog\/post-6.pug": {
-		"cOD": 0,
-		"ft": 512,
-		"oA": 0,
-		"oAP": "\/post-6.html",
-		"oF": 3,
-		"oS": 1
-		},
-	"\/src\/contacto.pug": {
 		"cOD": 1,
 		"ft": 512,
 		"oA": 0,
-<<<<<<< HEAD
-		"oAP": "\/src\/elgrupo.html",
-		"oF": 0,
-=======
-		"oAP": "\/contacto.html",
+		"oAP": "\/post-1.html",
 		"oF": 2,
->>>>>>> gh-pages
+		"oS": 0
+		},
+	"\/src\/blog\/post-2.pug": {
+		"cOD": 1,
+		"ft": 512,
+		"oA": 0,
+		"oAP": "\/post-2.html",
+		"oF": 2,
+		"oS": 0
+		},
+	"\/src\/blog\/post-3.pug": {
+		"cOD": 1,
+		"ft": 512,
+		"oA": 0,
+		"oAP": "\/post-3.html",
+		"oF": 2,
+		"oS": 0
+		},
+	"\/src\/blog\/post-4.pug": {
+		"cOD": 1,
+		"ft": 512,
+		"oA": 0,
+		"oAP": "\/src\/post-4.html",
+		"oF": 2,
+		"oS": 0
+		},
+	"\/src\/blog\/post-5.pug": {
+		"cOD": 1,
+		"ft": 512,
+		"oA": 0,
+		"oAP": "\/post-5.html",
+		"oF": 2,
+		"oS": 0
+		},
+	"\/src\/blog\/post-6.pug": {
+		"cOD": 1,
+		"ft": 512,
+		"oA": 0,
+		"oAP": "\/post-6.html",
+		"oF": 2,
 		"oS": 0
 		},
 	"\/src\/favicon.ico": {
@@ -798,7 +746,7 @@
 		"oAP": "\/src\/js\/app-min.js",
 		"oF": 0,
 		"sC": 1,
-		"tS": 1
+		"tS": 0
 		},
 	"\/src\/js\/component.js": {
 		"ft": 64,
@@ -818,44 +766,135 @@
 		"sC": 1,
 		"tS": 0
 		},
-<<<<<<< HEAD
-	"\/src\/modelos.pug": {
-		"cOD": 1,
-		"ft": 512,
-		"oA": 0,
-		"oAP": "\/src\/modelos.html",
-		"oF": 0,
-		"oS": 0
-		},
-	"\/src\/muebles.pug": {
-		"cOD": 1,
-		"ft": 512,
-		"oA": 0,
-		"oAP": "\/src\/muebles.html",
-		"oF": 0,
-=======
 	"\/src\/posts.pug": {
 		"cOD": 1,
 		"ft": 512,
 		"oA": 0,
 		"oAP": "\/posts.html",
 		"oF": 2,
->>>>>>> gh-pages
 		"oS": 0
 		},
 	"\/src\/products.pug": {
 		"cOD": 1,
 		"ft": 512,
 		"oA": 0,
-<<<<<<< HEAD
-		"oAP": "\/src\/posts.html",
-		"oF": 0,
-		"oS": 0
-=======
 		"oAP": "\/products.html",
 		"oF": 2,
-		"oS": 1
->>>>>>> gh-pages
+		"oS": 0
+		},
+	"\/src\/scss\/.sass-cache\/06ff0453ef58e266e142ac2fab10d4b850b5c7c6\/_Alert.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/06ff0453ef58e266e142ac2fab10d4b850b5c7c6\/_Alert.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/06ff0453ef58e266e142ac2fab10d4b850b5c7c6\/_Base.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/06ff0453ef58e266e142ac2fab10d4b850b5c7c6\/_Base.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/06ff0453ef58e266e142ac2fab10d4b850b5c7c6\/_Button.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/06ff0453ef58e266e142ac2fab10d4b850b5c7c6\/_Button.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/06ff0453ef58e266e142ac2fab10d4b850b5c7c6\/_Code.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/06ff0453ef58e266e142ac2fab10d4b850b5c7c6\/_Code.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/06ff0453ef58e266e142ac2fab10d4b850b5c7c6\/_Form.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/06ff0453ef58e266e142ac2fab10d4b850b5c7c6\/_Form.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/06ff0453ef58e266e142ac2fab10d4b850b5c7c6\/_Heading.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/06ff0453ef58e266e142ac2fab10d4b850b5c7c6\/_Heading.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/06ff0453ef58e266e142ac2fab10d4b850b5c7c6\/_Input.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/06ff0453ef58e266e142ac2fab10d4b850b5c7c6\/_Input.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/06ff0453ef58e266e142ac2fab10d4b850b5c7c6\/_Label.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/06ff0453ef58e266e142ac2fab10d4b850b5c7c6\/_Label.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/06ff0453ef58e266e142ac2fab10d4b850b5c7c6\/_Link.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/06ff0453ef58e266e142ac2fab10d4b850b5c7c6\/_Link.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/06ff0453ef58e266e142ac2fab10d4b850b5c7c6\/_List.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/06ff0453ef58e266e142ac2fab10d4b850b5c7c6\/_List.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/06ff0453ef58e266e142ac2fab10d4b850b5c7c6\/_Media.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/06ff0453ef58e266e142ac2fab10d4b850b5c7c6\/_Media.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/06ff0453ef58e266e142ac2fab10d4b850b5c7c6\/_Quote.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/06ff0453ef58e266e142ac2fab10d4b850b5c7c6\/_Quote.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/06ff0453ef58e266e142ac2fab10d4b850b5c7c6\/_Ruler.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/06ff0453ef58e266e142ac2fab10d4b850b5c7c6\/_Ruler.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/06ff0453ef58e266e142ac2fab10d4b850b5c7c6\/_Table.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/06ff0453ef58e266e142ac2fab10d4b850b5c7c6\/_Table.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/06ff0453ef58e266e142ac2fab10d4b850b5c7c6\/_Typography.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/06ff0453ef58e266e142ac2fab10d4b850b5c7c6\/_Typography.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/0cd9d87c4a2b6c4565c2de142f483455abcc9e64\/_Print.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/0cd9d87c4a2b6c4565c2de142f483455abcc9e64\/_Print.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/4433824fb2c8c0afd939a8d519d3934ed93cbfff\/_SiteBrand.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/4433824fb2c8c0afd939a8d519d3934ed93cbfff\/_SiteBrand.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/4433824fb2c8c0afd939a8d519d3934ed93cbfff\/_SiteFooter.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/4433824fb2c8c0afd939a8d519d3934ed93cbfff\/_SiteFooter.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/4433824fb2c8c0afd939a8d519d3934ed93cbfff\/_SiteHeader.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/4433824fb2c8c0afd939a8d519d3934ed93cbfff\/_SiteHeader.scssc",
+		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/4cc7ad0d8dfd79ed075eb8c245c16f7f2842194b\/_ButtonGroup.scssc": {
 		"ft": 8192,
@@ -909,6 +948,18 @@
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/4cc7ad0d8dfd79ed075eb8c245c16f7f2842194b\/_Table.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/5d8f5df01e70a8ed4d891f0665eaf8885fc74f7e\/_Variables.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/5d8f5df01e70a8ed4d891f0665eaf8885fc74f7e\/_Variables.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/5d8f5df01e70a8ed4d891f0665eaf8885fc74f7e\/Main.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/scss\/.sass-cache\/5d8f5df01e70a8ed4d891f0665eaf8885fc74f7e\/Main.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/7c52926d4e5d873e36078cbf6668e75fb2ba45de\/_Alert.scssc": {
@@ -1037,10 +1088,148 @@
 		"oAP": "\/src\/scss\/.sass-cache\/8307e1b1706f8ec91272d1d62a4b52ac532a6090\/_Normalize.scssc",
 		"oF": 0
 		},
+	"\/src\/scss\/.sass-cache\/897c1bb540dc4cbc0576e73bf1d8096a7cc52d12\/_ButtonGroup.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/897c1bb540dc4cbc0576e73bf1d8096a7cc52d12\/_ButtonGroup.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/897c1bb540dc4cbc0576e73bf1d8096a7cc52d12\/_Flag.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/897c1bb540dc4cbc0576e73bf1d8096a7cc52d12\/_Flag.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/897c1bb540dc4cbc0576e73bf1d8096a7cc52d12\/_FlexibleEmbed.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/897c1bb540dc4cbc0576e73bf1d8096a7cc52d12\/_FlexibleEmbed.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/897c1bb540dc4cbc0576e73bf1d8096a7cc52d12\/_Form.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/897c1bb540dc4cbc0576e73bf1d8096a7cc52d12\/_Form.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/897c1bb540dc4cbc0576e73bf1d8096a7cc52d12\/_Grid.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/897c1bb540dc4cbc0576e73bf1d8096a7cc52d12\/_Grid.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/897c1bb540dc4cbc0576e73bf1d8096a7cc52d12\/_Media.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/897c1bb540dc4cbc0576e73bf1d8096a7cc52d12\/_Media.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/897c1bb540dc4cbc0576e73bf1d8096a7cc52d12\/_Navigation.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/897c1bb540dc4cbc0576e73bf1d8096a7cc52d12\/_Navigation.scssc",
+		"oF": 0
+		},
 	"\/src\/scss\/.sass-cache\/b401cd54263ebbe279dd007edc02e4fe219014f0\/_Print.scssc": {
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/b401cd54263ebbe279dd007edc02e4fe219014f0\/_Print.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/c26bc76d0cbe7c874638463e43a5759e30ad3063\/_Contact.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/c26bc76d0cbe7c874638463e43a5759e30ad3063\/_Contact.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/c26bc76d0cbe7c874638463e43a5759e30ad3063\/_Languages.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/c26bc76d0cbe7c874638463e43a5759e30ad3063\/_Languages.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/c26bc76d0cbe7c874638463e43a5759e30ad3063\/_Marcas.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/c26bc76d0cbe7c874638463e43a5759e30ad3063\/_Marcas.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/c26bc76d0cbe7c874638463e43a5759e30ad3063\/_Post.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/c26bc76d0cbe7c874638463e43a5759e30ad3063\/_Post.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/c26bc76d0cbe7c874638463e43a5759e30ad3063\/_Posts.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/c26bc76d0cbe7c874638463e43a5759e30ad3063\/_Posts.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/c26bc76d0cbe7c874638463e43a5759e30ad3063\/_Product.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/c26bc76d0cbe7c874638463e43a5759e30ad3063\/_Product.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/c26bc76d0cbe7c874638463e43a5759e30ad3063\/_Products.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/c26bc76d0cbe7c874638463e43a5759e30ad3063\/_Products.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/c26bc76d0cbe7c874638463e43a5759e30ad3063\/_Searchform.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/c26bc76d0cbe7c874638463e43a5759e30ad3063\/_Searchform.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/c26bc76d0cbe7c874638463e43a5759e30ad3063\/_SiteCover.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/c26bc76d0cbe7c874638463e43a5759e30ad3063\/_SiteCover.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/c26bc76d0cbe7c874638463e43a5759e30ad3063\/_SiteNavigation.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/c26bc76d0cbe7c874638463e43a5759e30ad3063\/_SiteNavigation.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/c26bc76d0cbe7c874638463e43a5759e30ad3063\/_Video.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/c26bc76d0cbe7c874638463e43a5759e30ad3063\/_Video.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/c8fe22fecfdb0678d05b8b36e02a025f6735cfb0\/_Animations.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/c8fe22fecfdb0678d05b8b36e02a025f6735cfb0\/_Animations.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/c8fe22fecfdb0678d05b8b36e02a025f6735cfb0\/_Display.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/c8fe22fecfdb0678d05b8b36e02a025f6735cfb0\/_Display.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/c8fe22fecfdb0678d05b8b36e02a025f6735cfb0\/_Icons.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/c8fe22fecfdb0678d05b8b36e02a025f6735cfb0\/_Icons.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/c8fe22fecfdb0678d05b8b36e02a025f6735cfb0\/_Layout.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/c8fe22fecfdb0678d05b8b36e02a025f6735cfb0\/_Layout.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/c8fe22fecfdb0678d05b8b36e02a025f6735cfb0\/_Typography.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/c8fe22fecfdb0678d05b8b36e02a025f6735cfb0\/_Typography.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/ce8ee360b63b690ad0531bdd23b339ce7c7cd4ab\/_base.scssc": {
@@ -1119,6 +1308,42 @@
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/d88c5235e9370b690a8775014661a536e6659980\/_Widths.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/ee35e9edfdd8f19816f6a2f533ec8bc84529f1bc\/_Functions.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/ee35e9edfdd8f19816f6a2f533ec8bc84529f1bc\/_Functions.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/ee35e9edfdd8f19816f6a2f533ec8bc84529f1bc\/_Head.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/ee35e9edfdd8f19816f6a2f533ec8bc84529f1bc\/_Head.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/ee35e9edfdd8f19816f6a2f533ec8bc84529f1bc\/_Index.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/ee35e9edfdd8f19816f6a2f533ec8bc84529f1bc\/_Index.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/ee35e9edfdd8f19816f6a2f533ec8bc84529f1bc\/_MediaQueries.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/ee35e9edfdd8f19816f6a2f533ec8bc84529f1bc\/_MediaQueries.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/ee35e9edfdd8f19816f6a2f533ec8bc84529f1bc\/_Mixins.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/ee35e9edfdd8f19816f6a2f533ec8bc84529f1bc\/_Mixins.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/ee35e9edfdd8f19816f6a2f533ec8bc84529f1bc\/_Normalize.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/ee35e9edfdd8f19816f6a2f533ec8bc84529f1bc\/_Normalize.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/fbaddc1bf91d744bfca493a9c6330f5818026782\/_SiteFooter.scssc": {
@@ -1581,12 +1806,12 @@
 		"dP": 10,
 		"dS": 0,
 		"ft": 4,
-		"ma": 0,
+		"ma": 1,
 		"oA": 0,
 		"oAP": "\/css\/Main.css",
 		"oF": 2,
 		"oS": 3,
-		"uL": 1
+		"uL": 0
 		},
 	"\/src\/scss\/Molecules\/_ButtonGroup.scss": {
 		"aP": 0,

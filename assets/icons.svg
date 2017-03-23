@@ -1,5 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="display:none">
-
+	<symbol id="icon-logo" viewBox="113 1593 70 35">
+  <circle cx="130.5" cy="1610.5" r="17.5" fill-rule="evenodd"/>
+  <circle cx="165.5" cy="1610.5" r="17.5" fill-rule="evenodd"/>
+		
+	</symbol>
 	<symbol id="icon-arkit" viewBox="0 0 159 22">
 					<path d="M109.395 19.352c4.69 0 8.57-3.223 8.57-8.693 0-4.79-3.32-8.36-8.375-8.36-4.908 0-8.546 3.59-8.546 8.72 0 4.78 3.418 8.32 8.327 8.32h.03z" fill="none" stroke="#000" stroke-width="1.12"/>
 					<path fill="#B60050" fill-rule="nonzero" d="M105.343 6.667h8.324v8.324h-8.324z"/>
