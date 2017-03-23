@@ -567,15 +567,6 @@
 		"opt": 1,
 		"q": 92
 		},
-	"\/src\/assets\/images\/localizacion.jpg": {
-		"ft": 16384,
-		"iS": 258047,
-		"oA": 0,
-		"oAP": "\/assets\/images\/localizacion.jpg",
-		"oF": 3,
-		"opt": 1,
-		"q": 100
-		},
 	"\/src\/assets\/images\/logo-line.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -616,33 +607,6 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/src\/assets\/images\/mapa.jpg": {
-		"ft": 16384,
-		"iS": 50188,
-		"oA": 0,
-		"oAP": "\/assets\/images\/mapa.jpg",
-		"oF": 3,
-		"opt": 1,
-		"q": 100
-		},
-	"\/src\/assets\/images\/photo_18950_20101029.jpg": {
-		"ft": 16384,
-		"iS": 1072260,
-		"oA": 0,
-		"oAP": "\/assets\/images\/photo_18950_20101029.jpg",
-		"oF": 3,
-		"opt": 1,
-		"q": 100
-		},
-	"\/src\/assets\/images\/post_content.jpg": {
-		"ft": 16384,
-		"iS": 385376,
-		"oA": 0,
-		"oAP": "\/assets\/images\/post_content.jpg",
-		"oF": 3,
-		"opt": 1,
-		"q": 100
-		},
 	"\/src\/assets\/images\/post_main.jpg": {
 		"ft": 16384,
 		"iS": 98642,
@@ -651,25 +615,6 @@
 		"oF": 2,
 		"opt": 1,
 		"q": 92
-		},
-	"\/src\/assets\/images\/product.jpg": {
-		"ft": 16384,
-		"iS": 363103,
-		"oA": 0,
-		"oAP": "\/assets\/images\/product.jpg",
-		"oF": 3,
-		"opt": 1,
-		"q": 100
-		},
-	"\/src\/assets\/images\/product_detail.png": {
-		"ft": 32768,
-		"iS": 174472,
-		"l": 1,
-		"oA": 0,
-		"oAP": "\/assets\/images\/product_detail.png",
-		"oF": 3,
-		"opt": 1,
-		"q": 100
 		},
 	"\/src\/assets\/pdf\/mfbarcelona_presentacion.pdf": {
 		"ft": 8192,
@@ -765,6 +710,12 @@
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
+		},
+	"\/src\/post-4.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/post-4.html",
+		"oF": 0
 		},
 	"\/src\/posts.pug": {
 		"cOD": 1,
