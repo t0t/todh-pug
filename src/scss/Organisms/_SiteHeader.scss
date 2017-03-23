@@ -12,7 +12,7 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  background-color: $gray_light;
+  // background-color: $gray_light;
   z-index: 10;
 
   @include max-screen($small) {

@@ -536,45 +536,36 @@
 		"ft": 512,
 		"oA": 0,
 		"oAP": "\/about.html",
-		"oF": 3,
-		"oS": 1
+		"oF": 2,
+		"oS": 0
 		},
 	"\/src\/assets\/icons.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
 		"oAP": "\/assets\/icons.svg",
-		"oF": 2,
-		"opt": 0,
+		"oF": 3,
+		"opt": 1,
 		"plM": 3758088159,
 		"prP": 0
 		},
 	"\/src\/assets\/images\/cover.jpg": {
 		"ft": 16384,
-		"iS": 2537415,
+		"iS": 1552356,
 		"oA": 0,
 		"oAP": "\/assets\/images\/cover.jpg",
-		"oF": 3,
+		"oF": 2,
 		"opt": 1,
-		"q": 100
+		"q": 97
 		},
 	"\/src\/assets\/images\/default_img.jpg": {
 		"ft": 16384,
-		"iS": 278664,
+		"iS": 7072453,
 		"oA": 0,
 		"oAP": "\/assets\/images\/default_img.jpg",
-		"oF": 3,
+		"oF": 2,
 		"opt": 1,
-		"q": 100
-		},
-	"\/src\/assets\/images\/localizacion.jpg": {
-		"ft": 16384,
-		"iS": 258047,
-		"oA": 0,
-		"oAP": "\/assets\/images\/localizacion.jpg",
-		"oF": 3,
-		"opt": 1,
-		"q": 100
+		"q": 92
 		},
 	"\/src\/assets\/images\/logo-line.svg": {
 		"ft": 2097152,
@@ -616,60 +607,14 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/src\/assets\/images\/mapa.jpg": {
-		"ft": 16384,
-		"iS": 50188,
-		"oA": 0,
-		"oAP": "\/assets\/images\/mapa.jpg",
-		"oF": 3,
-		"opt": 1,
-		"q": 100
-		},
-	"\/src\/assets\/images\/photo_18950_20101029.jpg": {
-		"ft": 16384,
-		"iS": 1072260,
-		"oA": 0,
-		"oAP": "\/assets\/images\/photo_18950_20101029.jpg",
-		"oF": 3,
-		"opt": 1,
-		"q": 100
-		},
-	"\/src\/assets\/images\/post_content.jpg": {
-		"ft": 16384,
-		"iS": 385376,
-		"oA": 0,
-		"oAP": "\/assets\/images\/post_content.jpg",
-		"oF": 3,
-		"opt": 1,
-		"q": 100
-		},
 	"\/src\/assets\/images\/post_main.jpg": {
 		"ft": 16384,
-		"iS": 148310,
+		"iS": 98642,
 		"oA": 0,
 		"oAP": "\/assets\/images\/post_main.jpg",
-		"oF": 3,
+		"oF": 2,
 		"opt": 1,
-		"q": 100
-		},
-	"\/src\/assets\/images\/product.jpg": {
-		"ft": 16384,
-		"iS": 363103,
-		"oA": 0,
-		"oAP": "\/assets\/images\/product.jpg",
-		"oF": 3,
-		"opt": 1,
-		"q": 100
-		},
-	"\/src\/assets\/images\/product_detail.png": {
-		"ft": 32768,
-		"iS": 174472,
-		"l": 1,
-		"oA": 0,
-		"oAP": "\/assets\/images\/product_detail.png",
-		"oF": 3,
-		"opt": 1,
-		"q": 100
+		"q": 92
 		},
 	"\/src\/assets\/pdf\/mfbarcelona_presentacion.pdf": {
 		"ft": 8192,
@@ -678,58 +623,50 @@
 		"oF": 0
 		},
 	"\/src\/blog\/post-1.pug": {
-		"cOD": 0,
-		"ft": 512,
-		"oA": 0,
-		"oAP": "\/post-1.html",
-		"oF": 3,
-		"oS": 1
-		},
-	"\/src\/blog\/post-2.pug": {
-		"cOD": 0,
-		"ft": 512,
-		"oA": 0,
-		"oAP": "\/post-2.html",
-		"oF": 3,
-		"oS": 1
-		},
-	"\/src\/blog\/post-3.pug": {
-		"cOD": 0,
-		"ft": 512,
-		"oA": 0,
-		"oAP": "\/post-3.html",
-		"oF": 3,
-		"oS": 1
-		},
-	"\/src\/blog\/post-4.pug": {
-		"cOD": 0,
-		"ft": 512,
-		"oA": 0,
-		"oAP": "\/post-4.html",
-		"oF": 3,
-		"oS": 1
-		},
-	"\/src\/blog\/post-5.pug": {
-		"cOD": 0,
-		"ft": 512,
-		"oA": 0,
-		"oAP": "\/post-5.html",
-		"oF": 3,
-		"oS": 1
-		},
-	"\/src\/blog\/post-6.pug": {
-		"cOD": 0,
-		"ft": 512,
-		"oA": 0,
-		"oAP": "\/post-6.html",
-		"oF": 3,
-		"oS": 1
-		},
-	"\/src\/contacto.pug": {
 		"cOD": 1,
 		"ft": 512,
 		"oA": 0,
-		"oAP": "\/contacto.html",
+		"oAP": "\/post-1.html",
+		"oF": 2,
+		"oS": 0
+		},
+	"\/src\/blog\/post-2.pug": {
+		"cOD": 1,
+		"ft": 512,
+		"oA": 0,
+		"oAP": "\/post-2.html",
+		"oF": 2,
+		"oS": 0
+		},
+	"\/src\/blog\/post-3.pug": {
+		"cOD": 1,
+		"ft": 512,
+		"oA": 0,
+		"oAP": "\/post-3.html",
+		"oF": 2,
+		"oS": 0
+		},
+	"\/src\/blog\/post-4.pug": {
+		"cOD": 1,
+		"ft": 512,
+		"oA": 0,
+		"oAP": "\/src\/post-4.html",
+		"oF": 2,
+		"oS": 0
+		},
+	"\/src\/blog\/post-5.pug": {
+		"cOD": 1,
+		"ft": 512,
+		"oA": 0,
+		"oAP": "\/post-5.html",
+		"oF": 2,
+		"oS": 0
+		},
+	"\/src\/blog\/post-6.pug": {
+		"cOD": 1,
+		"ft": 512,
+		"oA": 0,
+		"oAP": "\/post-6.html",
 		"oF": 2,
 		"oS": 0
 		},
@@ -751,10 +688,10 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/js\/build.js",
-		"oF": 2,
+		"oAP": "\/src\/js\/app-min.js",
+		"oF": 0,
 		"sC": 1,
-		"tS": 1
+		"tS": 0
 		},
 	"\/src\/js\/component.js": {
 		"ft": 64,
@@ -774,6 +711,12 @@
 		"sC": 1,
 		"tS": 0
 		},
+	"\/src\/post-4.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/post-4.html",
+		"oF": 0
+		},
 	"\/src\/posts.pug": {
 		"cOD": 1,
 		"ft": 512,
@@ -788,7 +731,121 @@
 		"oA": 0,
 		"oAP": "\/products.html",
 		"oF": 2,
-		"oS": 1
+		"oS": 0
+		},
+	"\/src\/scss\/.sass-cache\/06ff0453ef58e266e142ac2fab10d4b850b5c7c6\/_Alert.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/06ff0453ef58e266e142ac2fab10d4b850b5c7c6\/_Alert.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/06ff0453ef58e266e142ac2fab10d4b850b5c7c6\/_Base.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/06ff0453ef58e266e142ac2fab10d4b850b5c7c6\/_Base.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/06ff0453ef58e266e142ac2fab10d4b850b5c7c6\/_Button.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/06ff0453ef58e266e142ac2fab10d4b850b5c7c6\/_Button.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/06ff0453ef58e266e142ac2fab10d4b850b5c7c6\/_Code.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/06ff0453ef58e266e142ac2fab10d4b850b5c7c6\/_Code.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/06ff0453ef58e266e142ac2fab10d4b850b5c7c6\/_Form.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/06ff0453ef58e266e142ac2fab10d4b850b5c7c6\/_Form.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/06ff0453ef58e266e142ac2fab10d4b850b5c7c6\/_Heading.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/06ff0453ef58e266e142ac2fab10d4b850b5c7c6\/_Heading.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/06ff0453ef58e266e142ac2fab10d4b850b5c7c6\/_Input.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/06ff0453ef58e266e142ac2fab10d4b850b5c7c6\/_Input.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/06ff0453ef58e266e142ac2fab10d4b850b5c7c6\/_Label.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/06ff0453ef58e266e142ac2fab10d4b850b5c7c6\/_Label.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/06ff0453ef58e266e142ac2fab10d4b850b5c7c6\/_Link.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/06ff0453ef58e266e142ac2fab10d4b850b5c7c6\/_Link.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/06ff0453ef58e266e142ac2fab10d4b850b5c7c6\/_List.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/06ff0453ef58e266e142ac2fab10d4b850b5c7c6\/_List.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/06ff0453ef58e266e142ac2fab10d4b850b5c7c6\/_Media.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/06ff0453ef58e266e142ac2fab10d4b850b5c7c6\/_Media.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/06ff0453ef58e266e142ac2fab10d4b850b5c7c6\/_Quote.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/06ff0453ef58e266e142ac2fab10d4b850b5c7c6\/_Quote.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/06ff0453ef58e266e142ac2fab10d4b850b5c7c6\/_Ruler.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/06ff0453ef58e266e142ac2fab10d4b850b5c7c6\/_Ruler.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/06ff0453ef58e266e142ac2fab10d4b850b5c7c6\/_Table.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/06ff0453ef58e266e142ac2fab10d4b850b5c7c6\/_Table.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/06ff0453ef58e266e142ac2fab10d4b850b5c7c6\/_Typography.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/06ff0453ef58e266e142ac2fab10d4b850b5c7c6\/_Typography.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/0cd9d87c4a2b6c4565c2de142f483455abcc9e64\/_Print.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/0cd9d87c4a2b6c4565c2de142f483455abcc9e64\/_Print.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/4433824fb2c8c0afd939a8d519d3934ed93cbfff\/_SiteBrand.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/4433824fb2c8c0afd939a8d519d3934ed93cbfff\/_SiteBrand.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/4433824fb2c8c0afd939a8d519d3934ed93cbfff\/_SiteFooter.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/4433824fb2c8c0afd939a8d519d3934ed93cbfff\/_SiteFooter.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/4433824fb2c8c0afd939a8d519d3934ed93cbfff\/_SiteHeader.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/4433824fb2c8c0afd939a8d519d3934ed93cbfff\/_SiteHeader.scssc",
+		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/06ff0453ef58e266e142ac2fab10d4b850b5c7c6\/_Alert.scssc": {
 		"ft": 8192,
@@ -1814,12 +1871,12 @@
 		"dP": 10,
 		"dS": 0,
 		"ft": 4,
-		"ma": 0,
+		"ma": 1,
 		"oA": 0,
 		"oAP": "\/css\/Main.css",
 		"oF": 2,
 		"oS": 3,
-		"uL": 1
+		"uL": 0
 		},
 	"\/src\/scss\/Molecules\/_ButtonGroup.scss": {
 		"aP": 0,
@@ -2307,7 +2364,7 @@
 		"ft": 512,
 		"oA": 1,
 		"oAP": "\/src\/tpl\/partials\/_footer.html",
-		"oF": 1,
+		"oF": 0,
 		"oS": 0
 		},
 	"\/src\/tpl\/partials\/_nav-main.pug": {
@@ -2315,7 +2372,7 @@
 		"ft": 512,
 		"oA": 1,
 		"oAP": "\/src\/tpl\/partials\/_nav-main.html",
-		"oF": 1,
+		"oF": 0,
 		"oS": 0
 		}
 	},
