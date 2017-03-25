@@ -7,7 +7,7 @@ mixin navmenu(menu_items)
                         a( href = item.link )
                             =item.title
                 else
-                    li( class=[ '', '' ])
+                    li( class=[ item.title+'Btn', '' ])
                         a( href=item.link )
                             =item.title
         //- input(type="button", id="hamenu", class="btn btn--hamenu", value="Menu")
