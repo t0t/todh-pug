@@ -15,7 +15,9 @@ footer.siteFooter
                     svg(class="icon  iconBrico")
                         use(xlink:href="assets/icons.svg#icon-cor")
 
+
         main.siteFooter--credits
             p &copy; #{new Date().getFullYear()}
             small #{PageTitle}
-            button.btn.btn--invert email
+
+            include ../components/_contact

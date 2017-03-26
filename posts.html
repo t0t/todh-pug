@@ -118,7 +118,25 @@
       </aside>
       <main class="siteFooter--credits">
         <p>&copy; 2017</p><small>TODH</small>
-        <button class="btn btn--invert">email</button>
+        <input class="btn btn--invert" id="contactBtn" type="button" value="Contact Button">
+        <div class="Contact--form"><a id="closeBtn" href="#">
+            <svg class="icon iconClose">
+              <use xlink:href="assets/icons.svg#icon-close"></use>
+            </svg></a>
+          <h2>Like what you see?</h2>
+          <p>Maybe you have an interesting project I can help you with.</p>
+          <form action="https://formspree.io/sergiofores@gmail.com" method="POST">
+            <label for="Name">Name</label>
+            <input class="form-control" type="text" aria-describedby="name" name="name" id="name">
+            <label for="Email">Email address</label>
+            <input class="form-control" type="email" name="_replyto" aria-describedby="emailHelp" id="email"><small class="form0-text text-muted">We'll never share your email with anyone else</small>
+            <label for="Phone Number">Phone Number</label>
+            <input class="form-control" type="tel" aria-describedby="tel" name="tel" id="name">
+            <label for="Message">Message</label>
+            <textarea class="form-control" rows="3" aria-describedby="message" name="msg" id="name"></textarea>
+            <button class="btn btn--invert" type="submit" value="Send">Submit</button>
+          </form>
+        </div>
       </main>
     </footer>
     <script src="https://cdn.rawgit.com/michalsnik/aos/2.0.4/dist/aos.js"></script>

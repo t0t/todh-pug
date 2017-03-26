@@ -7,6 +7,10 @@
 	<symbol id="icon-arrow-next" viewBox="10 27 26 46">
 			<path d="M12 29l21 21-21 21" />
 	</symbol>
+	
+	<symbol id="icon-close" viewBox="2048 676 17 22">
+			<path d="M2064.487 677L2049 696.545M2064.487 696.545L2049 677"/>
+	</symbol>
 
 	<symbol id="icon-arrow-prev" viewBox="10 27 26 46">
 			<path d="M33 29L12 50l21 21" />

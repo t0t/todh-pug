@@ -14,14 +14,25 @@
         margin-top: $spacing_base * 2;
     }
 				&Btn {
-					position: fixed;
+					// position: fixed;
 				}
 				&--form {
+					display: none;
 					opacity: 0;
-					background-color: $brand_color1;
+					background-color: rgba($brand_color1,.9);
 					z-index: 100;
 					position: fixed;
 					bottom: 0;
+					width: 100%;
+					height: 100vh;
+					flex-direction: column;
+					align-items: center;
+					justify-content: center;
+					padding: $spacing_base;
+					&.active { // open popup contact
+						display: flex;
+						opacity: 1;
+					}
 				}
 
     &Header {

@@ -12,6 +12,14 @@
 
 .icon {
 
+  &Close {
+    height: 26px;
+				stroke: $white;
+				stroke-width: 3px;
+    @include max-screen($big) {
+      height: 36px;
+    }
+  }
   &Logo {
     height: 46px;
 				fill: rgba($brand_color2,.5);
