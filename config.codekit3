@@ -515,6 +515,14 @@
 		"oF": 0,
 		"oS": 0
 		},
+	"\/src\/_db\/_features.pug": {
+		"cOD": 1,
+		"ft": 512,
+		"oA": 1,
+		"oAP": "\/src\/_db\/_features.html",
+		"oF": 0,
+		"oS": 0
+		},
 	"\/src\/_db\/_posts.pug": {
 		"cOD": 1,
 		"ft": 512,
@@ -714,7 +722,7 @@
 	"\/src\/js\/sticky.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/src\/js\/sticky-min.js",
 		"oF": 0,
 		"sC": 1,
@@ -1769,11 +1777,11 @@
 		"dP": 10,
 		"dS": 0,
 		"ft": 4,
-		"ma": 0,
+		"ma": 1,
 		"oA": 0,
 		"oAP": "\/css\/Main.css",
 		"oF": 2,
-		"oS": 3,
+		"oS": 2,
 		"uL": 1
 		},
 	"\/src\/scss\/Molecules\/_ButtonGroup.scss": {

@@ -34,6 +34,7 @@
 @mixin h2() {
   font-size: 35px;
   letter-spacing: -.5px;
+		line-height: 1.2;
   @include max-screen($small) {
     letter-spacing: -1px;
     line-height: 1;

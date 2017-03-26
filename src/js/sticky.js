@@ -1,4 +1,4 @@
-var $sticky = $('.siteBrand');
+var $sticky = $('.siteNavigation');
 var $stickyrStopper = $('.Posts');
 
 	if (!!$sticky.offset()) { // make sure ".sticky" element exists

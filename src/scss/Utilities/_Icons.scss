@@ -14,6 +14,7 @@
 
   &Logo {
     height: 46px;
+				fill: rgba($brand_color2,.5);
     @include max-screen($big) {
       height: 100px;
     }
@@ -46,16 +47,16 @@
     }
   }
   &Palet {
-    stroke: $gray_light;
+    stroke: $black;
   }
   &Pefc {
     fill: none;
-    stroke: $gray_light;
+    stroke: $black;
     stroke-width: .5px;
   }
   &Spain {
     fill: none;
-    stroke: $gray_light;
+    stroke: $black;
     stroke-width: .5px;
   }
   &Arkit {

@@ -11,6 +11,11 @@
             padding-top: $spacing_base * 2;
         }
     }
+				&Section {
+					background-color: $brand_color3;
+					padding: $spacing_base;
+					color: $black;
+				}
 
     &Nav {
         margin-left: $spacing_base;
