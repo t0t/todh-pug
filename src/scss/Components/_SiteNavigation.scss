@@ -11,9 +11,9 @@
 		border-bottom: 5px solid $brand_color1;
 	}
 	@include max-screen($small) {
-		order: 4;
-		background-color: $gray_lighter;
-		width: 100%;
+		order: 2;
+		// background-color: $gray_lighter;
+		// width: 100%;
 	}
 
 	ul {
