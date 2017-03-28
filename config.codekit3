@@ -477,6 +477,12 @@
 		"oAP": "\/posts.html",
 		"oF": 0
 		},
+	"\/prepros-6.config": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/prepros-6.config",
+		"oF": 0
+		},
 	"\/products.html": {
 		"ft": 8192,
 		"oA": 2,

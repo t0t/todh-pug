@@ -1,11 +1,10 @@
 include ../../_db/_features.pug
+include ../lib/mixins/_svg-icon.pug
 
 mixin cover-feature(feature)
     .CoverFeatures--item
         h3=feature.title
-            a(href="index.html" class="siteBrand__logo")
-                svg(class="icon iconSpain")
-                    use(xlink:href="assets/icons.svg#icon-cor")
+            +svg-icon(feature.icon)
 
 section.Cover
     aside.CoverFeatures

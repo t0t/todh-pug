@@ -45,7 +45,7 @@ Prototypes allow us to make quick decisions about our products without having to
 - Pug (Jade)
 - Google Fonts
 - Version Control
-- Codekit 3 Build process
+- Prepros Build process
 - The "Partial" Convention
 - Syntax-checking
 - Transpiling

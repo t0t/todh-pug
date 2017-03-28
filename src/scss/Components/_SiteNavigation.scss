@@ -1,48 +1,65 @@
 /*
  * Site Navigation
  */
-
 .siteNavigation {
-  height: 100%;
-  display: flex;
-  justify-content: space-around;
-  align-items: center;
+	height: 100%;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
 
-		.active {
-			border-bottom: 5px solid $brand_color1;
+	.active {
+		border-bottom: 5px solid $brand_color1;
+	}
+	@include max-screen($small) {
+		order: 4;
+		background-color: $gray_lighter;
+		width: 100%;
+	}
+
+	ul {
+		display: flex;
+		list-style: none;
+		margin-bottom: 0;
+		padding-left: 0;
+		@include max-screen($big) {
+			display: none;
+			&.overlayMenu {
+				display: flex;
+				flex-wrap: wrap;
+				flex-direction: column;
+				justify-content: center;
+				background-color: $brand_color1;
+				position: fixed;
+				right: 0;
+				top: 0;
+				height: 50vh;
+				width: 50%;
+				font-size: 300%;
+			}
 		}
+		@include min-screen($big) {
+		}
+	}
 
-  @include max-screen($small) {
-    order: 4;
-    background-color: $gray_lighter;
-    width: 100%;
-  }
+	li {
+		// display: inline-flex;
+	}
 
-  ul {
-    list-style: none;
-    margin-bottom: 0;
-    padding-left: 0;
-  }
-  li {
-    display: inline-flex;
-  }
+	a {
+		color: $black;
+		padding: $spacing_base / 4;
+		height: 100%;
+		// text-transform: uppercase;
+		border-bottom: 5px solid transparent;
 
-  a {
-    color: $black;
-    padding: $spacing_base / 4;
-    height: 100%;
-    // text-transform: uppercase;
-    border-bottom: 5px solid transparent;
-
-    &:hover,
-    &:active,
-    &:focus,
-    &.active {
-      border-bottom-color: $gray_dark;
-    }
-
-    @include max-screen($small) {
-      color: $black;
-    }
-  }
+		&.active,
+		&:active,
+		&:focus,
+		&:hover {
+			border-bottom-color: $gray_dark;
+		}
+		@include max-screen($small) {
+			color: $black;
+		}
+	}
 }

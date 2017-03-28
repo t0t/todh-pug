@@ -1,5 +1,6 @@
 mixin navmenu(menu_items)
     nav.siteNavigation(role="navigation")
+        input(type="button", id="hamenu", class="btn btn--hamenu", value="Menu")
         ul
             each item in menu_items
                 if item.title == current
@@ -10,7 +11,6 @@ mixin navmenu(menu_items)
                     li( class=[ item.title+'Btn', '' ])
                         a( href=item.link )
                             =item.title
-        //- input(type="button", id="hamenu", class="btn btn--hamenu", value="Menu")
 
 +navmenu([
     { 'title': 'Home',  'link': './index.html'},

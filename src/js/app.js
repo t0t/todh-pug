@@ -1,9 +1,6 @@
 $("document").ready(function() {
-    // The DOM is ready!
-    // The rest of the code goes here
-				// @codekit-prepend "popup.js";
-				// console.log('funciona jquery');
-
+	// @codekit-prepend "popup.js", "main-nav.js";
+	console.log('funciona jquery');
 });
 
 
@@ -11,6 +8,11 @@ $("document").ready(function() {
 
 (function() {
 
+let x = 100;
+let stringg = `
+	test ${x}
+`;
+console.log(stringg);
 	AOS.init({
 		duration: 1400
 	});
