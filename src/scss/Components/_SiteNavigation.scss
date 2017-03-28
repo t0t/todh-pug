@@ -23,7 +23,7 @@
 		padding-left: 0;
 		@include max-screen($big) {
 			display: none;
-			&.overlayMenu {
+			&.overlayMenu { // Overlay menu on mobile devices
 				display: flex;
 				flex-wrap: wrap;
 				flex-direction: column;
