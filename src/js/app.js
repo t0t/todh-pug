@@ -1,5 +1,5 @@
 $("document").ready(function() {
-	// @codekit-prepend "popup.js", "main-nav.js";
+	// @codekit-prepend "popup.js", "main-nav.js", "auto-slideshow.js";
 	console.log('funciona jquery');
 });
 
