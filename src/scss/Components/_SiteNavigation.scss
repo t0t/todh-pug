@@ -12,8 +12,6 @@
 	}
 	@include max-screen($small) {
 		order: 2;
-		// background-color: $gray_lighter;
-		// width: 100%;
 	}
 
 	ul {
@@ -24,6 +22,8 @@
 		@include max-screen($big) {
 			display: none;
 			&.overlayMenu { // Overlay menu on mobile devices
+				height: 50vh;
+				width: 70%;
 				display: flex;
 				flex-wrap: wrap;
 				flex-direction: column;
@@ -32,9 +32,10 @@
 				position: fixed;
 				right: 0;
 				top: 0;
-				height: 50vh;
-				width: 50%;
-				font-size: 300%;
+				font-size: 200%;
+				a{
+					color: $brand_color2;
+				}
 			}
 		}
 		@include min-screen($big) {
