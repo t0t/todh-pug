@@ -18,6 +18,7 @@
 		display: flex;
 		align-items: center;
 		@include max-screen($big) {
+			width: 90px;
 			padding-left: $spacing_base / 2;
 		}
 	}

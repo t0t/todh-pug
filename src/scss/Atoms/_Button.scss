@@ -113,6 +113,11 @@
 // Hamburguer menu Button
 .btn--hamenu {
 	margin-right: $spacing_base / 2;
+	background-color: rgba($brand_color2,.5);
+	color: $black;
+	text-transform: uppercase;
+	font-size: 12px;
+	border: none;
 	&.active {
 		z-index: 100;
 		background-color: $brand_color2;
